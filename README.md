@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 - 14Code
+- Web, ML, CP
 
 Portfolio - https://ash-portfolio.netlify.app/
 
