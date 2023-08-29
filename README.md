@@ -1,9 +1,10 @@
 ### Hello there 👋
 
-- 14Code
-- Web, ML, CP
+- I love designing and building systems.
 
 Portfolio - https://ash-portfolio.netlify.app/
+
+LinkedIn - https://www.linkedin.com/in/ashwinkumarpillai/
 
 <!--
 **AshwinkumarPillai/AshwinkumarPillai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
