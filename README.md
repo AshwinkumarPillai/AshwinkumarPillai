@@ -6,7 +6,7 @@ Portfolio - https://ash-portfolio.netlify.app/
 
 LinkedIn - https://www.linkedin.com/in/ashwinkumarpillai/
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinkumarPillai)](https://github.com/AshwinkumarPillai/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinkumarPillai&theme=tokyonight)](https://github.com/AshwinkumarPillai/github-readme-stats)
 
 <!--
 **AshwinkumarPillai/AshwinkumarPillai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
